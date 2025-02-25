@@ -1,0 +1,2 @@
+# smasher
+My first repo
